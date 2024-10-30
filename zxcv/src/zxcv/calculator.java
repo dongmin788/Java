@@ -7,7 +7,7 @@ public class calculator extends JFrame {
 
 	calculator() {
         this.setTitle("계산기");
-        this.setSize(520, 250); 
+        this.setSize(500, 250); 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JTextField t1 = new JTextField("0.");
