@@ -48,6 +48,7 @@ public class calculator extends JFrame {
             JButton button = new JButton(label);
             button.setBackground(Color.white); 
             button.setForeground(Color.BLACK);
+            button.addActionListener(new ButtonClickListener());
             panel.add(button); 
         }
     }
