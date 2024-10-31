@@ -22,9 +22,9 @@ public class calculator extends JFrame {
         t1.setEnabled(false);
         this.add(t1, BorderLayout.NORTH); 
 
-        StringBuilder currentInput = new StringBuilder();
+        currentInput = new StringBuilder();
         result = 0;
-        String lastOperator = "";
+        lastOperator = "";
         
         JPanel b1 = new JPanel();
         b1.setLayout(new GridLayout(5, 5, 5, 5)); 
