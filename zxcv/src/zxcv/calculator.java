@@ -17,7 +17,7 @@ public class calculator extends JFrame {
         this.setSize(500, 250); 
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        JTextField t1 = new JTextField("");
+        t1 = new JTextField("");
         t1.setHorizontalAlignment(JTextField.LEFT); 
         t1.setEnabled(false);
         this.add(t1, BorderLayout.NORTH); 
