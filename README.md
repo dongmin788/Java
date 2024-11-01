@@ -15,7 +15,7 @@ Java로 작성된 간단한 GUI 기반 계산기 프로그램입니다. 이 프�
 
 bash
 코드 복사
-git clone https://github.com/dongmin788/zxcv.git
+git clone https://github.com/dongmin788/JAVA.git
 Java IDE(예: IntelliJ IDEA, Eclipse) 또는 커맨드라인에서 calculator.java 파일을 실행합니다.
 
 프로그램이 실행되면, 텍스트 필드에 입력을 시작하고 원하는 연산 버튼을 눌러 계산을 수행합니다.
